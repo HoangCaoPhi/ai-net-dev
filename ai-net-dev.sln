@@ -6,7 +6,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{827E0CD3-B72
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "quickstarts", "quickstarts", "{8EEE5A1B-F82B-D885-91AC-A65446D8B0B6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtensionsAI", "src\quickstarts\ExtensionsAI\ExtensionsAI.csproj", "{E16D1888-3880-EABC-DF33-DB808936189C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatCompletion", "src\quickstarts\ChatCompletion\ChatCompletion.csproj", "{539EBD3F-973C-4CCD-886D-FAB780AF25DA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -14,17 +14,17 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{E16D1888-3880-EABC-DF33-DB808936189C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E16D1888-3880-EABC-DF33-DB808936189C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E16D1888-3880-EABC-DF33-DB808936189C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E16D1888-3880-EABC-DF33-DB808936189C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{539EBD3F-973C-4CCD-886D-FAB780AF25DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{539EBD3F-973C-4CCD-886D-FAB780AF25DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{539EBD3F-973C-4CCD-886D-FAB780AF25DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{539EBD3F-973C-4CCD-886D-FAB780AF25DA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{8EEE5A1B-F82B-D885-91AC-A65446D8B0B6} = {827E0CD3-B72D-47B6-A68D-7590B98EB39B}
-		{E16D1888-3880-EABC-DF33-DB808936189C} = {8EEE5A1B-F82B-D885-91AC-A65446D8B0B6}
+		{539EBD3F-973C-4CCD-886D-FAB780AF25DA} = {8EEE5A1B-F82B-D885-91AC-A65446D8B0B6}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {7B4C466C-7386-440D-9BA5-C7CF91625E3F}
